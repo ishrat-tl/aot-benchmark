@@ -12,6 +12,12 @@ setup(
               'aot/configs/models',
               'aot/dataloaders',
               'aot/networks',
+              'aot/networks/decoders',
+              'aot/networks/encoders',
+              'aot/networks/engines',
+              'aot/networks/layers',
+              'aot/networks/managers',
+              'aot/networks/models',
               'aot/utils'],
 
     classifiers=[
