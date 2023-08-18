@@ -10,7 +10,7 @@ setup(
     packages=['configs',
               'configs/models',
               'dataloaders',
-              'netwroks',
+              'networks',
               'utils'],
 
     classifiers=[
