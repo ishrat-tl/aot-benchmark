@@ -7,11 +7,11 @@ setup(
     url='https://github.com/ishrat-tl/aot-benchmark',
     author='Yang Zongxin',
     license='BSD-3 clause',
-    packages=['configs',
-              'configs/models',
-              'dataloaders',
-              'networks',
-              'utils'],
+    packages=['aot/configs',
+              'aot/configs/models',
+              'aot/dataloaders',
+              'aot/networks',
+              'aot/utils'],
 
     classifiers=[
         'Intended Audience :: Science/Research',
