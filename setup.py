@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='aot',
+    name='DeAOT',
     version='0.1.0',
     description='A semi-supervised video object segmentation approach.',
     url='https://github.com/ishrat-tl/aot-benchmark',
