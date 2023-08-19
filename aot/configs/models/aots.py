@@ -1,5 +1,5 @@
 import os
-from .default import DefaultModelConfig
+from aot.configs.models.default import DefaultModelConfig
 
 class ModelConfig(DefaultModelConfig):
     def __init__(self):
