@@ -14,6 +14,8 @@ setup(
               'aot/networks',
               'aot/networks/decoders',
               'aot/networks/encoders',
+              'aot/networks/encoders/resnet',
+              'aot/networks/encoders/swin',
               'aot/networks/engines',
               'aot/networks/layers',
               'aot/networks/managers',
