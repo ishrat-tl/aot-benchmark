@@ -16,8 +16,8 @@ from utils.image import flip_tensor, save_mask
 from utils.checkpoint import load_network
 from utils.eval import zip_folder
 
-from networks.models import build_vos_model
-from networks.engines import build_engine
+from models import build_vos_model
+from engines import build_engine
 
 
 class Evaluator(object):
