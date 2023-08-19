@@ -1,4 +1,4 @@
-from .default import DefaultModelConfig
+from aot.configs.default import DefaultModelConfig
 
 
 class ModelConfig(DefaultModelConfig):

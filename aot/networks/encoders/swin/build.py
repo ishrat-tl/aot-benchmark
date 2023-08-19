@@ -5,7 +5,7 @@
 # Written by Ze Liu
 # --------------------------------------------------------
 
-from .swin_transformer import SwinTransformer
+from aot.networks.encoders.swin.swin_transformer import SwinTransformer
 
 
 def build_swin_model(model_type, freeze_at=0):

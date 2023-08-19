@@ -1,5 +1,5 @@
 import os
-from .default import DefaultEngineConfig
+from aot.configs.default import DefaultEngineConfig
 
 
 class EngineConfig(DefaultEngineConfig):
