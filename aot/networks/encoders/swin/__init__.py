@@ -1,1 +1,1 @@
-from .build import build_swin_model
+from aot.networks.encoders.swin.build import build_swin_model
